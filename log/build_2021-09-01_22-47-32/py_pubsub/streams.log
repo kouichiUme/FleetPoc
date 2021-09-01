@@ -1,0 +1,47 @@
+[0.307s] Invoking command in '/home/kouichi/dev_ws/src/py_pubsub': PYTHONPATH=/home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/py_pubsub build --build-base /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build install --prefix /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub --record /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/install.log --single-version-externally-managed
+[0.579s] running egg_info
+[0.579s] creating build/py_pubsub/py_pubsub.egg-info
+[0.579s] writing build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.580s] writing dependency_links to build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.580s] writing entry points to build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.580s] writing requirements to build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.580s] writing top-level names to build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.582s] writing manifest file 'build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.621s] reading manifest file 'build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.621s] writing manifest file 'build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.622s] running build
+[0.622s] running build_py
+[0.622s] creating /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build
+[0.622s] creating /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build/lib
+[0.622s] creating /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build/lib/py_pubsub
+[0.622s] copying py_pubsub/subscriber_member_function.py -> /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build/lib/py_pubsub
+[0.622s] copying py_pubsub/publisher_member_function_old.py -> /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build/lib/py_pubsub
+[0.623s] copying py_pubsub/__init__.py -> /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build/lib/py_pubsub
+[0.623s] copying py_pubsub/manage.py -> /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build/lib/py_pubsub
+[0.623s] copying py_pubsub/publisher_member_function.py -> /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build/lib/py_pubsub
+[0.623s] running install
+[0.624s] running install_lib
+[0.625s] creating /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.625s] copying /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.626s] copying /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build/lib/py_pubsub/publisher_member_function_old.py -> /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.626s] copying /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.626s] copying /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build/lib/py_pubsub/manage.py -> /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.626s] copying /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.626s] byte-compiling /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-38.pyc
+[0.627s] byte-compiling /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/publisher_member_function_old.py to publisher_member_function_old.cpython-38.pyc
+[0.627s] byte-compiling /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/__init__.py to __init__.cpython-38.pyc
+[0.627s] byte-compiling /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/manage.py to manage.cpython-38.pyc
+[0.628s] byte-compiling /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[0.628s] running install_data
+[0.629s] creating /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/share/ament_index
+[0.629s] creating /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/share/ament_index/resource_index
+[0.630s] creating /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/share/ament_index/resource_index/packages
+[0.630s] copying resource/py_pubsub -> /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/share/ament_index/resource_index/packages
+[0.630s] copying package.xml -> /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/share/py_pubsub
+[0.630s] running install_egg_info
+[0.633s] Copying build/py_pubsub/py_pubsub.egg-info to /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[0.634s] running install_scripts
+[0.653s] Installing listener script to /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/py_pubsub
+[0.653s] Installing talker script to /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/py_pubsub
+[0.654s] writing list of installed files to '/home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/install.log'
+[0.676s] Invoked command in '/home/kouichi/dev_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/py_pubsub build --build-base /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/build install --prefix /home/kouichi/dev_ws/src/py_pubsub/install/py_pubsub --record /home/kouichi/dev_ws/src/py_pubsub/build/py_pubsub/install.log --single-version-externally-managed
